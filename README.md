@@ -78,4 +78,3 @@ python main.py
 ## Ссылки и лицензия
 
 * Исходный код: [krishjais783/expense-tracker-python](https://github.com/krishjais783/expense-tracker-python)
-* Лицензия: проект распространяется на условиях [MIT License](LICENSE) — разрешено свободное использование, изменение и распространение в учебных и личных целях.
